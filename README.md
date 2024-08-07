@@ -27,12 +27,11 @@
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=sql&logoColor=white)
 
 
-### 📈 GitHub Stats
+
 
 ### 📈 GitHub Stats
 
 ![Yomith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YomithG&show_icons=true&theme=radical)
-
 ---
 
 Feel free to explore my repositories and get in touch!
