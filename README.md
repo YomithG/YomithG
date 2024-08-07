@@ -4,7 +4,7 @@
 - 👀 I’m interested in **web and mobile app development, particularly using the MERN stack and React Native**
 - 🌱 I’m currently learning **advanced React Native and exploring new web development frameworks**
 - 💞️ I’m looking to collaborate on **open-source projects and innovative tech solutions**
-- 📫 How to reach me: **[LinkedIn](www.linkedin.com/in/lavindu-yomith-5b9b69187)** | **[Email](mailto:lavinduyomith2016@gmail.com)**
+- 📫 How to reach me: LinkedIn-(www.linkedin.com/in/lavindu-yomith-5b9b69187) | [Email](lavinduyomith2016@gmail.com)
 - 😄 Pronouns: **he/him**
 
 
