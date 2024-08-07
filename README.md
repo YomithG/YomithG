@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-- 👋 Hi, I’m **Yomith Gamage** 
+- 👋 Hi, I’m **Yomith Gamage** an undergraduate IT student at SLIIT passionate about technology, coding, and app development.
 - 👀 I’m interested in **web and mobile app development, particularly using the MERN stack and React Native**
 - 🌱 I’m currently learning **advanced React Native and exploring new web development frameworks**
 - 💞️ I’m looking to collaborate on **open-source projects and innovative tech solutions**
