@@ -29,9 +29,10 @@
 
 
 
+
 ### 📈 GitHub Stats
 
-![Yomith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YomithG&show_icons=true&theme=radical)
+![Yomith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YomithG&show_icons=true&theme=radical&hide=prs,issues,contribs,stars)
 ---
 
 Feel free to explore my repositories and get in touch!
